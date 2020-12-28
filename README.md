@@ -1,5 +1,3 @@
-# oneclicksolutions_task
-Task for company
 ### I am implemented:
 - OOP Paradigm.
 - Active Record Design Pattern for database queries
