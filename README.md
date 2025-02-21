@@ -1,4 +1,4 @@
-### I am implemented:
+### implemented:
 - OOP Paradigm.
 - Active Record Design Pattern for database queries
 - Defining database-driven classes.
